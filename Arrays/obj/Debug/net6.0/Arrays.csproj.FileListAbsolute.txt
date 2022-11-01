@@ -1,0 +1,15 @@
+D:\VS REPOS\Arrays\Arrays\bin\Debug\net6.0\Arrays.exe
+D:\VS REPOS\Arrays\Arrays\bin\Debug\net6.0\Arrays.deps.json
+D:\VS REPOS\Arrays\Arrays\bin\Debug\net6.0\Arrays.runtimeconfig.json
+D:\VS REPOS\Arrays\Arrays\bin\Debug\net6.0\Arrays.dll
+D:\VS REPOS\Arrays\Arrays\bin\Debug\net6.0\Arrays.pdb
+D:\VS REPOS\Arrays\Arrays\obj\Debug\net6.0\Arrays.csproj.AssemblyReference.cache
+D:\VS REPOS\Arrays\Arrays\obj\Debug\net6.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS REPOS\Arrays\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfoInputs.cache
+D:\VS REPOS\Arrays\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfo.cs
+D:\VS REPOS\Arrays\Arrays\obj\Debug\net6.0\Arrays.csproj.CoreCompileInputs.cache
+D:\VS REPOS\Arrays\Arrays\obj\Debug\net6.0\Arrays.dll
+D:\VS REPOS\Arrays\Arrays\obj\Debug\net6.0\refint\Arrays.dll
+D:\VS REPOS\Arrays\Arrays\obj\Debug\net6.0\Arrays.pdb
+D:\VS REPOS\Arrays\Arrays\obj\Debug\net6.0\Arrays.genruntimeconfig.cache
+D:\VS REPOS\Arrays\Arrays\obj\Debug\net6.0\ref\Arrays.dll
